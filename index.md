@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
+   <meta charset="UTF-8">
 	<title>Patrick Cousot's web site on GitHub</title>
 </head>
 <body>
