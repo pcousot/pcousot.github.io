@@ -8,11 +8,13 @@
 <header>
 <h2>Patrick Cousot</h2>
 <header>
+<main>
 <HR>
 <h3><a href="https://en.wikipedia.org/wiki/Abstract_interpretation">Abstract interpretation</a> on Wikipedia</h3>
 <h3><a href="bio.html">Biography</a> (<a href="https://en.wikipedia.org/wiki/Patrick_Cousot">wikipedia</a>)</h3>
-<h3><a href="publications.html">Publications (and slides of conferences)</a></h3>
+<h3><a href="publications.html">Publications (with slides of conferences)</a></h3>
 <h3><a href="talks.html">Slides of talks</a></h3>
 <HR>
+</main>
 </body> 
 </html>
