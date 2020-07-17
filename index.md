@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 	<meta charset="utf-8">
 	<title>Patrick Cousot's web site on GitHub</title>
@@ -7,7 +7,7 @@
 <body>
 <header>
 <h2>Patrick Cousot</h2>
-<header>
+</header>
 <main>
 <HR>
 <h3><a href="https://en.wikipedia.org/wiki/Abstract_interpretation">Abstract interpretation</a> on Wikipedia</h3>
